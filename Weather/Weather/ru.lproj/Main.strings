@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0jK-CA-JaH"; */
+"0jK-CA-JaH.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Sz-ak-GsS"; */
+"2Sz-ak-GsS.text" = "Label";
+
+/* Class = "UILabel"; text = "Speed of wind: "; ObjectID = "2rh-9y-Wub"; */
+"2rh-9y-Wub.text" = "Speed of wind: ";
+
+/* Class = "UILabel"; text = "☀"; ObjectID = "7uc-sQ-uqZ"; */
+"7uc-sQ-uqZ.text" = "☀";
+
+/* Class = "UILabel"; text = "☀"; ObjectID = "8Ih-gb-C5s"; */
+"8Ih-gb-C5s.text" = "☀";
+
+/* Class = "UILabel"; text = "Feels like: "; ObjectID = "9F4-2T-CMM"; */
+"9F4-2T-CMM.text" = "Feels like: ";
+
+/* Class = "UILabel"; text = "Чт."; ObjectID = "ION-to-plw"; */
+"ION-to-plw.text" = "Чт.";
+
+/* Class = "UILabel"; text = "Direction of wind: "; ObjectID = "KPI-av-irA"; */
+"KPI-av-irA.text" = "Direction of wind: ";
+
+/* Class = "UILabel"; text = "Ср."; ObjectID = "OCw-l2-hk9"; */
+"OCw-l2-hk9.text" = "Ср.";
+
+/* Class = "UILabel"; text = "Пт."; ObjectID = "OW7-uc-ejp"; */
+"OW7-uc-ejp.text" = "Пт.";
+
+/* Class = "UILabel"; text = "Пн."; ObjectID = "P10-2F-bKa"; */
+"P10-2F-bKa.text" = "Пн.";
+
+/* Class = "UISearchBar"; placeholder = "Enter city"; ObjectID = "T8W-tb-B4D"; */
+"T8W-tb-B4D.placeholder" = "Enter city";
+
+/* Class = "UISearchBar"; T8W-tb-B4D.scopeButtonTitles[0] = "Title"; ObjectID = "T8W-tb-B4D"; */
+"T8W-tb-B4D.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; T8W-tb-B4D.scopeButtonTitles[1] = "Title"; ObjectID = "T8W-tb-B4D"; */
+"T8W-tb-B4D.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "V4Y-3J-Kvg"; */
+"V4Y-3J-Kvg.text" = "Label";
+
+/* Class = "UILabel"; text = "☀"; ObjectID = "Wuk-5R-dJE"; */
+"Wuk-5R-dJE.text" = "☀";
+
+/* Class = "UILabel"; text = "☀"; ObjectID = "Yqg-NF-GRT"; */
+"Yqg-NF-GRT.text" = "☀";
+
+/* Class = "UILabel"; text = "Вт."; ObjectID = "ZRb-Mg-JWW"; */
+"ZRb-Mg-JWW.text" = "Вт.";
+
+/* Class = "UILabel"; text = "T"; ObjectID = "Zws-Gf-Nq7"; */
+"Zws-Gf-Nq7.text" = "T";
+
+/* Class = "UILabel"; text = "CityName"; ObjectID = "dQ4-ij-Orq"; */
+"dQ4-ij-Orq.text" = "CityName";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "k2j-d0-owa"; */
+"k2j-d0-owa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lwA-To-f6r"; */
+"lwA-To-f6r.text" = "Label";
+
+/* Class = "UILabel"; text = "☀"; ObjectID = "qSx-s8-nKO"; */
+"qSx-s8-nKO.text" = "☀";
+
+/* Class = "UILabel"; text = "☀"; ObjectID = "wjl-s3-5Eb"; */
+"wjl-s3-5Eb.text" = "☀";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xgX-hJ-qwo"; */
+"xgX-hJ-qwo.text" = "Label";
+
+/* Class = "UILabel"; text = "T"; ObjectID = "z4L-Ms-GtW"; */
+"z4L-Ms-GtW.text" = "T";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "ztL-XO-o87"; */
+"ztL-XO-o87.text" = "City";
